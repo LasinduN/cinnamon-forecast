@@ -1,4 +1,3 @@
-# **README.md**
 
 # **Predictive Modeling of Sri Lankan Cinnamon Supply & Demand**
 
