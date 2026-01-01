@@ -21,8 +21,8 @@ All files in this directory should adhere to the following standards:
 | Dataset Name | Source | Frequency | Units | Description |
 |---|---|---|---|---|
 | `sri_lanka_exports.csv` | UN Comtrade / Customs | Monthly | kg, USD | Monthly export volume and value of HS 0906 from Sri Lanka. |
-| `production_annual.csv` | FAOSTAT | Annual | tonnes | Annual production figures (will be interpolated for monthly models). |
-| `climate_sri_lanka.csv` | Met Dept / NASA POWER | Monthly | mm, °C | Rainfall and average temperature for key growing regions (Galle, Matara, etc.). |
+| `production_annual.csv` | FAOSTAT | Annual | tonnes | Cental Bank |
+| `climate_sri_lanka.csv` | Met Dept | Monthly | mm, °C | Rainfall and average temperature for key growing regions (Galle, Matara, etc.). |
 | `google_trends_cinnamon.csv`| Google Trends | Monthly | Index (0-100)| Search interest for "Ceylon Cinnamon" worldwide. |
 
 ## Notes
